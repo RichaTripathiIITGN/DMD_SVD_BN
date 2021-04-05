@@ -1,1 +1,7 @@
 Richa Tripathi and Amit Reza
+Abstract:
+The structure of complex networks underpins its functional attributes. The modular organization of networks, especially the empirical networks such as the 
+brain networks is paramount to their functioning, as various designated brain areas cooperate together to perform a specific brain function. Hence, the 
+understanding of the coincidence of the functional and structural communities in these networks is important. In this work we aim to analyze the overlap
+between structural and functional communities in empirical brain networks. For structural communities, we employ the SVD technique and for functional 
+communities identification, we use DMD technique. For dynamics on the brain networks, we use neural mass model of Wilson and Cowan. We find that.....
